@@ -3,7 +3,7 @@
 *, *::before, *::after {
   box-sizing: border-box;
   font-family: 'Baloo Bhaijaan 2', cursive;
-  font-weight: normal;
+  font-weight: normala;
 }
 
 body {
